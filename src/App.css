@@ -1,13 +1,33 @@
 * {
-  align-items: center;
   background-color: black;
+  align-items: center;
+  font-size: 50px;
+}
+
+.main {
+  display: block;
+  line-height: 50px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  color: white;
+}
+
+button {
+  margin-left: 20px;
+  background-color: tomato;
+  color: white;
+  border-radius: 7px;
+  margin-bottom: 40px;
 }
 
 h1,
-h3 {
-  margin-top: 3rem;
-  color: white;
-  font-size: 40px;
-  display: flex;
-  justify-content: center;
+button {
+  margin-top: 5rem;
+}
+
+span {
+  position: relative;
+  text-emphasis: triangle;
+  margin-top: 4rem;
 }
