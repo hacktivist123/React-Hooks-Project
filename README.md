@@ -1,6 +1,6 @@
 # React-Hooks-Project
 
-This contains all the code used for my article "Getting Started With the React Hooks API." for smashing magazine
+This contains all the code used for my article "[Getting Started With the React Hooks API](https://www.smashingmagazine.com/2020/04/react-hooks-api-guide/)" for smashing magazine
 
 There are 4 more branches containing code and these branches are:
 
